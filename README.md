@@ -1,3 +1,3 @@
 # Python
 Python GUI Project
-My first Git
+The main.py is the home page
